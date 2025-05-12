@@ -9,10 +9,6 @@ This is a simple firewall simulator that accepts or denies network "packets" bas
 - Uses rules based on IP, port, and protocol
 - Shows ALLOW or DENY result for each packet
 
-## 🧠 Concepts Covered
-- Access control
-- Rule-based filtering
-- Firewall logic simulation
 
 ## ⚙️ Run the Program
 
